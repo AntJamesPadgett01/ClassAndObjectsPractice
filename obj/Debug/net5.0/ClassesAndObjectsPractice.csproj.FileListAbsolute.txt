@@ -1,0 +1,16 @@
+C:\Users\antho\repos\ClassesAndObjectsPractice\bin\Debug\net5.0\ClassesAndObjectsPractice.exe
+C:\Users\antho\repos\ClassesAndObjectsPractice\bin\Debug\net5.0\ClassesAndObjectsPractice.deps.json
+C:\Users\antho\repos\ClassesAndObjectsPractice\bin\Debug\net5.0\ClassesAndObjectsPractice.runtimeconfig.json
+C:\Users\antho\repos\ClassesAndObjectsPractice\bin\Debug\net5.0\ClassesAndObjectsPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\ClassesAndObjectsPractice\bin\Debug\net5.0\ClassesAndObjectsPractice.dll
+C:\Users\antho\repos\ClassesAndObjectsPractice\bin\Debug\net5.0\ref\ClassesAndObjectsPractice.dll
+C:\Users\antho\repos\ClassesAndObjectsPractice\bin\Debug\net5.0\ClassesAndObjectsPractice.pdb
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.AssemblyInfo.cs
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.dll
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ref\ClassesAndObjectsPractice.dll
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.pdb
+C:\Users\antho\repos\ClassesAndObjectsPractice\obj\Debug\net5.0\ClassesAndObjectsPractice.genruntimeconfig.cache
